@@ -1,0 +1,2 @@
+ETH
+https://dwarfpool.com/eth/address?wallet=f5cca85fe1798100ba3aef5f63b64381c52c0fa6&allpayouts=1
