@@ -1,2 +1,13 @@
 ETH
 https://dwarfpool.com/eth/address?wallet=f5cca85fe1798100ba3aef5f63b64381c52c0fa6&allpayouts=1
+
+====
+ethermine.org
+./ethminer --farm-recheck 200 -G -F http://127.0.0.1:8080/rig1
+Choose from the following stratum servers:
+
+North America (East): us1.ethermine.org:4444 or us1.ethermine.org:14444
+North America (West): us2.ethermine.org:4444 or us2.ethermine.org:14444
+Europe (France): eu1.ethermine.org:4444 or eu1.ethermine.org:14444
+Europe (Germany): eu2.ethermine.org:4444 or eu2.ethermine.org:14444
+Asia: asia1.ethermine.org:4444 or asia1.ethermine.org:14444
