@@ -1,0 +1,5 @@
+#use this for api
+git config --global credential.helper osxkeychain   # OSX
+git config --global credential.helper cache         # Linux
+
+#pull the key from notes
