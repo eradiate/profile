@@ -9,3 +9,8 @@ North America (West): us2.ethermine.org:4444 or us2.ethermine.org:14444
 Europe (France): eu1.ethermine.org:4444 or eu1.ethermine.org:14444
 Europe (Germany): eu2.ethermine.org:4444 or eu2.ethermine.org:14444
 Asia: asia1.ethermine.org:4444 or asia1.ethermine.org:14444
+
+
+DCRED
+====
+DsRSLSdmVABGUboaKevzezNfBMkJcvuxbXL
