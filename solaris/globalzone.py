@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+import socket
+import re
 import subprocess
 import sys
 
